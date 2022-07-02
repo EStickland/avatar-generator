@@ -6,6 +6,10 @@ Source image requirements:
 - transparent background
 - shape not transparent in the middle (i.e not just an outline)
 
+Package requirements:
+- Numpy
+- Pillow (PIL)
+
 ## Example:
 
 Starting image:
