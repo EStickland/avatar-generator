@@ -1,6 +1,11 @@
 # avatar-generator
 Generate your own GitHub avatar by providing a source image which will be transformed into the signature block form, in a colour of your choice
 
+Source image requirements:
+- png file
+- transparent background
+- shape not transparent in the middle (i.e not just an outline)
+
 ## Example:
 
 Starting image:
